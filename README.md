@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 📫 How to reach me: 
+  - Email: darvari128@gmail.com 
+  - Telegram: https://t.me/xhdix 
+  - Keybase (encrypted message): https://keybase.io/xhdix
+- ⚡ Fun fact:
+![https://twitter.com/dinoman_j](https://user-images.githubusercontent.com/12384263/115099961-12fa8d00-9f42-11eb-9995-15509163616c.png)
 
 <!--
 **xhdix/xhdix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
